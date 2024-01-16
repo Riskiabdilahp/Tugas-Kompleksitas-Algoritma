@@ -7,6 +7,22 @@ Akar
 │   │   └── Tongkat Cahaya (2 kg, 6)
 │   └── Kompas Magis (1 kg, 4)
 └── Mantel Kehancuran (6 kg, 20)
+
+Urutan Barang :
+
+Mantel Kehancuran (20/6 = 3.33)
+Pedang Ajaib (12/5 = 2.4)
+Tongkat Cahaya (6/2 = 3.0)
+Potion Kekekalan (8/3 = 2.67)
+Kompas Magis (4/1 = 4.0)
+Proses:
+
+Pilih barang dengan nilai per unit berat tertinggi hingga kapasitas tas terpenuhi.
+Hasil:
+
+Barang yang dipilih: Mantel Kehancuran, Pedang Ajaib.
+Total nilai: 
+20+12=32
 """
 
 class TreeNode:
